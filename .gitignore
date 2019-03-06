@@ -21,3 +21,24 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+.settings/org.eclipse.m2e.core.prefs
+.project
+SimpleRedisDubboCore/.project
+SimpleRedisDubboCore/.settings/org.eclipse.jdt.core.prefs
+SimpleRedisDubboCore/.settings/org.eclipse.m2e.core.prefs
+SimpleRedisDubboCore/.classpath
+SimpleRedisDubboInterface/.settings/org.eclipse.m2e.core.prefs
+SimpleRedisDubboInterface/.settings/org.eclipse.jdt.core.prefs
+SimpleRedisDubboInterface/.classpath
+SimpleRedisDubboDeploy/target/classes/zip.xml
+SimpleRedisDubboDeploy/.classpath
+SimpleRedisDubboDeploy/.settings/org.eclipse.m2e.core.prefs
+SimpleRedisDubboDeploy/.settings/org.eclipse.jdt.core.prefs
+SimpleRedisDubboCore/target/classes/spring-redis.xml
+SimpleRedisDubboCore/target/classes/redis.properties
+SimpleRedisDubboCore/target/classes/protest.properties
+SimpleRedisDubboCore/target/classes/property.properties
+SimpleRedisDubboCore/target/classes/log4j.properties
+SimpleRedisDubboCore/target/classes/dubbo.properties
+SimpleRedisDubboCore/target/classes/dubbo-provider.xml
+SimpleRedisDubboCore/target/classes/applicationContext.xml
